@@ -10,4 +10,3 @@ struct node
 };
 
 #endif // !NODE_H
-
