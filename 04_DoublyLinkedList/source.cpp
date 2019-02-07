@@ -4,21 +4,21 @@
 int main() {
 
 	/*
-		1. Z³o¿onoœæ obliczeniowa
+		1. Zlozonosc obliczeniowa
 
-		2. Z³o¿onoœæ czasowa
+		2. Zlozonosc czasowa
 
-		3. Z³o¿onoœæ pamiêciowa
+		3. Zlozonosc pamieciowa
 
-		4. Notacja du¿e-O
+		4. Notacja duze-O
 
-		5. Co to znaczy, ¿e algorytm ma z³o¿onoœæ logarytmiczn¹ O(log n) ?
+		5. Co to znaczy, ze algorytm ma zlozonosc logarytmiczna O(log n) ?
 
-		6. Która z³o¿onoœæ jest "lepsza"? O(n) czy O(log n) i dlaczego ?
+		6. Ktora zlozonosc jest "lepsza"? O(n) czy O(log n) i dlaczego ?
 
-		7. Jakie znamy inne popularne z³o¿onoœci czasowe ?
+		7. Jakie znamy inne popularne zlozonoœci czasowe ?
 
-		8. Jak¹ z³o¿onoœæ czasow¹ maj¹ algorytmy takie jak:
+		8. Jaka zlozonosc czasowa maja algorytmy takie jak:
 		--> sortowanie przez scalanie
 		--> wyszukiwanie binarne
 		--> sortowanie szybkie
