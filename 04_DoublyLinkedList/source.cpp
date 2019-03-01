@@ -16,7 +16,7 @@ int main() {
 
 		6. Ktora zlozonosc jest "lepsza"? O(n) czy O(log n) i dlaczego ?
 
-		7. Jakie znamy inne popularne zlozonoœci czasowe ?
+		7. Jakie znamy inne popularne zlozonosci czasowe ?
 
 		8. Jaka zlozonosc czasowa maja algorytmy takie jak:
 		--> sortowanie przez scalanie
