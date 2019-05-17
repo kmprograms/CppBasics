@@ -1,0 +1,18 @@
+[
+    {
+	    "model": "BMW",
+	    "price": 500
+    },
+    {
+	    "model": "AUDI",
+	    "price": 400
+    },
+    {
+	    "model": "MAZDA",
+	    "price": 700
+    },
+    {
+	    "model": "OPEL",
+	    "price": 600
+    }
+]
